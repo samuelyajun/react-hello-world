@@ -12,7 +12,7 @@ class App extends Component {
     render() {
         return (
             <div>
-             Hello World from Yajun!
+             Hello World from Yajun Liu, I change to index.jsx file, haha!
             </div>
         );
     }
